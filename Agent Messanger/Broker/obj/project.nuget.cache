@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AmAsVfHFOczPUNWEzMmYXcuirqaxLjDh3i/cKAXV45dkyFg51thk8FyX531CxRmFXGiXhVn/z2fDLvmjDN1NTA==",
+  "success": true,
+  "projectFilePath": "D:\\Agent Messanger\\Agent Messanger\\Broker\\Broker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anatoly\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

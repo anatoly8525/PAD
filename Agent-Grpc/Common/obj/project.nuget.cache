@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "SOsCp0Q6r/mnHa64DfjFa59K3jwojMYMShrKTukHqmwezs97FdC7pkNrv2kXiHDzVriANiS+x2HviemETohSZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anatoly\\Desktop\\PAD\\1LAB\\LisAndrew\\Agent-Grpc-master (grib)\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anatoly\\.nuget\\packages\\google.protobuf\\3.18.0\\google.protobuf.3.18.0.nupkg.sha512",
+    "C:\\Users\\Anatoly\\.nuget\\packages\\grpc\\2.40.0\\grpc.2.40.0.nupkg.sha512",
+    "C:\\Users\\Anatoly\\.nuget\\packages\\grpc.core\\2.40.0\\grpc.core.2.40.0.nupkg.sha512",
+    "C:\\Users\\Anatoly\\.nuget\\packages\\grpc.core.api\\2.40.0\\grpc.core.api.2.40.0.nupkg.sha512",
+    "C:\\Users\\Anatoly\\.nuget\\packages\\grpc.tools\\2.40.0\\grpc.tools.2.40.0.nupkg.sha512",
+    "C:\\Users\\Anatoly\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Anatoly\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
